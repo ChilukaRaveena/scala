@@ -1,0 +1,85 @@
+product_condition_id,product_availability,product_shipping,product_condition,product_isSale
+1,In Stock,Standard Shipping,NEW,FALSE
+2,In Stock,Free Shipping on orders 35 and up,NEW,FALSE
+3,In Stock,Free Expedited Shipping for most orders over $49,NEW,FALSE
+4,In Stock,Free Shipping,NEW,FALSE
+5,In Stock,Free Shipping,SELLER REFURBISHED,FALSE
+6,In Stock,Standard Shipping,USED PRODUCT,FALSE
+7,,Standard Shipping,NEW,FALSE
+8,In Stock,Value Shipping,NEW,FALSE
+9,In Stock,Standard Shipping,PRE OWNED,FALSE
+10,In Stock,Standard Shipping,REFURBISHED,FALSE
+11,In Stock,Free Expedited Shipping for most orders over $49,USED PRODUCT,FALSE
+12,In Stock,Free Shipping,MANUFACTURER REFURBISHED,FALSE
+13,In Stock,Standard Shipping,MANUFACTURER REFURBISHED,FALSE
+14,In Stock,Standard Shipping,SELLER REFURBISHED,FALSE
+15,In Stock,Free Expedited Shipping,NEW,FALSE
+16,In Stock,Free Shipping,USED PRODUCT,FALSE
+17,No,Free Shipping,NEW,FALSE
+18,In Stock,Free Expedited Shipping for most orders over $49,SELLER REFURBISHED,FALSE
+19,Special Order,Free Expedited Shipping for most orders over $49,NEW,FALSE
+20,In Stock,Expedited Shipping,NEW,FALSE
+21,In Stock,Free Shippingon orders 35 and up,NEW,FALSE
+22,In Stock,Value Shipping,MANUFACTURER REFURBISHED,FALSE
+23,In Stock,Value Shipping,USED PRODUCT,FALSE
+24,In Stock,Expedited Shipping,MANUFACTURER REFURBISHED,FALSE
+25,In Stock,Expedited Shipping,USED PRODUCT,FALSE
+26,Available Soon,Free Expedited Shipping for most orders over $49,NEW,FALSE
+27,Out of Stock,Standard Shipping,NEW,FALSE
+28,In Stock,Free Shipping on orders 35 and up,USED PRODUCT,FALSE
+29,Available Soon,Free Expedited Shipping for most orders over $49,USED PRODUCT,FALSE
+30,In Stock,Free Expedited Shipping for most orders over $49,MANUFACTURER REFURBISHED,FALSE
+31,In Stock,Value Shipping,SELLER REFURBISHED,FALSE
+32,In Stock,Freight Shipping,NEW,FALSE
+33,No,Free Shippingon orders 35 and up,NEW,FALSE
+34,sold,Standard Shipping,NEW,FALSE
+35,Out of Stock,Standard Shipping,SELLER REFURBISHED,FALSE
+36,Out of Stock,Standard Shipping,USED PRODUCT,FALSE
+37,Special Order,Free Standard Shipping on Orders Over $49,NEW,FALSE
+38,In Stock,29.99,NEW,FALSE
+39,In Stock,29.99,USED PRODUCT,FALSE
+40,In Stock,23.47,NEW,FALSE
+41,In Stock,Free Expedited Shipping,USED PRODUCT,FALSE
+42,In Stock,Free Expedited Shipping,MANUFACTURER REFURBISHED,FALSE
+1,In Stock,Standard Shipping,NEW,TRUE
+2,In Stock,Free Shipping on orders 35 and up,NEW,TRUE
+3,In Stock,Free Expedited Shipping for most orders over $49,NEW,TRUE
+4,In Stock,Free Shipping,NEW,TRUE
+5,In Stock,Free Shipping,SELLER REFURBISHED,TRUE
+6,In Stock,Standard Shipping,USED PRODUCT,TRUE
+7,,Standard Shipping,NEW,TRUE
+8,In Stock,Value Shipping,NEW,TRUE
+9,In Stock,Standard Shipping,PRE OWNED,TRUE
+10,In Stock,Standard Shipping,REFURBISHED,TRUE
+11,In Stock,Free Expedited Shipping for most orders over $49,USED PRODUCT,TRUE
+12,In Stock,Free Shipping,MANUFACTURER REFURBISHED,TRUE
+13,In Stock,Standard Shipping,MANUFACTURER REFURBISHED,TRUE
+14,In Stock,Standard Shipping,SELLER REFURBISHED,TRUE
+15,In Stock,Free Expedited Shipping,NEW,TRUE
+16,In Stock,Free Shipping,USED PRODUCT,TRUE
+17,No,Free Shipping,NEW,TRUE
+18,In Stock,Free Expedited Shipping for most orders over $49,SELLER REFURBISHED,TRUE
+19,Special Order,Free Expedited Shipping for most orders over $49,NEW,TRUE
+20,In Stock,Expedited Shipping,NEW,TRUE
+21,In Stock,Free Shippingon orders 35 and up,NEW,TRUE
+22,In Stock,Value Shipping,MANUFACTURER REFURBISHED,TRUE
+23,In Stock,Value Shipping,USED PRODUCT,TRUE
+24,In Stock,Expedited Shipping,MANUFACTURER REFURBISHED,TRUE
+25,In Stock,Expedited Shipping,USED PRODUCT,TRUE
+26,Available Soon,Free Expedited Shipping for most orders over $49,NEW,TRUE
+27,Out of Stock,Standard Shipping,NEW,TRUE
+28,In Stock,Free Shipping on orders 35 and up,USED PRODUCT,TRUE
+29,Available Soon,Free Expedited Shipping for most orders over $49,USED PRODUCT,TRUE
+30,In Stock,Free Expedited Shipping for most orders over $49,MANUFACTURER REFURBISHED,TRUE
+31,In Stock,Value Shipping,SELLER REFURBISHED,TRUE
+32,In Stock,Freight Shipping,NEW,TRUE
+33,No,Free Shippingon orders 35 and up,NEW,TRUE
+34,sold,Standard Shipping,NEW,TRUE
+35,Out of Stock,Standard Shipping,SELLER REFURBISHED,TRUE
+36,Out of Stock,Standard Shipping,USED PRODUCT,TRUE
+37,Special Order,Free Standard Shipping on Orders Over $49,NEW,TRUE
+38,In Stock,29.99,NEW,TRUE
+39,In Stock,29.99,USED PRODUCT,TRUE
+40,In Stock,23.47,NEW,TRUE
+41,In Stock,Free Expedited Shipping,USED PRODUCT,TRUE
+42,In Stock,Free Expedited Shipping,MANUFACTURER REFURBISHED,TRUE
